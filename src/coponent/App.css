@@ -1,0 +1,10 @@
+.contactliste{
+  display: flex;
+  flex-wrap: wrap;
+}
+.contactitem-container{
+  width: 20%;
+  border:1px solid black;
+  text-align: center;
+  height: 198px;
+}
